@@ -1,0 +1,16 @@
+{
+  "candidate_id": "v0",
+  "retrieval": {
+    "method": "bm25",
+    "top_k": 4,
+    "include_readme": true
+  },
+  "context_packing": {
+    "ordering": "by_score",
+    "max_chars": null
+  },
+  "prompt": {
+    "template": "default_unified_diff",
+    "security_hint": true
+  }
+}

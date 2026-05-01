@@ -1,0 +1,20 @@
+{
+  "candidate_id": "bm25_k8_readme0_t02_secmin",
+  "retrieval": {
+    "method": "bm25",
+    "top_k": 8,
+    "include_readme": false
+  },
+  "context_packing": {
+    "ordering": "by_score",
+    "max_chars": null
+  },
+  "prompt": {
+    "template": "security_minimal_edit",
+    "security_hint": true
+  },
+  "generation": {
+    "temperature": 0.2,
+    "max_tokens": 4096
+  }
+}

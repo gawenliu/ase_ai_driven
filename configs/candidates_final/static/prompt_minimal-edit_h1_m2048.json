@@ -1,0 +1,20 @@
+{
+  "candidate_id": "prompt_minimal-edit_h1_m2048",
+  "retrieval": {
+    "method": "bm25",
+    "top_k": 4,
+    "include_readme": true
+  },
+  "context_packing": {
+    "ordering": "by_score",
+    "max_chars": null
+  },
+  "prompt": {
+    "template": "security_minimal_edit",
+    "security_hint": true
+  },
+  "generation": {
+    "temperature": 0.2,
+    "max_tokens": 2048
+  }
+}

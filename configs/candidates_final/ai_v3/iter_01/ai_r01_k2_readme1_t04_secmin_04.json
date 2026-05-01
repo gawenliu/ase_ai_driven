@@ -1,0 +1,20 @@
+{
+  "candidate_id": "ai_r01_k2_readme1_t04_secmin_04",
+  "retrieval": {
+    "method": "bm25",
+    "top_k": 2,
+    "include_readme": true
+  },
+  "context_packing": {
+    "ordering": "by_score",
+    "max_chars": null
+  },
+  "prompt": {
+    "template": "security_minimal_edit",
+    "security_hint": true
+  },
+  "generation": {
+    "temperature": 0.4,
+    "max_tokens": 2048
+  }
+}

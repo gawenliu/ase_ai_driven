@@ -1,0 +1,20 @@
+{
+  "candidate_id": "bm25_k16_readme0_t00_default",
+  "retrieval": {
+    "method": "bm25",
+    "top_k": 16,
+    "include_readme": false
+  },
+  "context_packing": {
+    "ordering": "by_score",
+    "max_chars": null
+  },
+  "prompt": {
+    "template": "default_unified_diff",
+    "security_hint": true
+  },
+  "generation": {
+    "temperature": 0.0,
+    "max_tokens": 4096
+  }
+}

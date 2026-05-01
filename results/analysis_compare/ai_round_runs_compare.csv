@@ -1,0 +1,33 @@
+route,round,candidate_id,overall_score,combined_score,combined_score_contrast,prompt_template
+AI General Search,1,ai_r01_k2_readme1_t04_default_01,34.08,42.54,59.54,default_unified_diff
+AI General Search,1,ai_r01_k2_readme1_t00_secmin_02,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,1,ai_r01_k2_readme1_t02_secmin_03,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,1,ai_r01_k2_readme1_t04_secmin_04,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,2,ai_r02_k16_readme1_t04_check_04,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,2,ai_r02_k24_readme0_t04_secmin_03,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,2,ai_r02_k4_readme0_t00_default_01,30.1,39.05,47.00945945945946,default_unified_diff
+AI General Search,2,ai_r02_k8_readme0_t00_check_02,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,3,ai_r03_k16_readme0_t00_secmin_03,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,3,ai_r03_k4_readme1_t00_check_02,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,3,ai_r03_k8_readme1_t04_check_01,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,3,ai_r03_k24_readme1_t02_default_04,28.1,37.3,42.553861003861,default_unified_diff
+AI General Search,4,ai_r04_k24_readme0_t00_check_03,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,4,ai_r04_k2_readme0_t04_check_04,30.1,39.05,47.00945945945946,security_checklist
+AI General Search,4,ai_r04_k4_readme0_t04_secmin_02,30.1,39.05,47.00945945945946,security_minimal_edit
+AI General Search,4,ai_r04_k8_readme0_t02_default_01,30.1,39.05,47.00945945945946,default_unified_diff
+AI Prompt-Iterative,1,ai_r01_default_h1_m2048_i04,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,1,ai_r01_check_h1_m4096_i03,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,1,ai_r01_secmin_h1_m4096_i02,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,1,ai_r01_default_h1_m4096_i01,28.1,36.71666666666667,42.30609756097561,
+AI Prompt-Iterative,2,ai_r02_default_h1_m4096_i03,34.08,42.54,62.53999999999999,
+AI Prompt-Iterative,2,ai_r02_default_h1_m2048_i01,32.08,40.20666666666666,54.53999999999999,
+AI Prompt-Iterative,2,ai_r02_default_h1_m8192_i04,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,2,ai_r02_check_h1_m4096_i02,28.1,37.3,46.00121951219512,
+AI Prompt-Iterative,3,ai_r03_default_h1_m8192_i03,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,3,ai_r03_secmin_h1_m4096_i04,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,3,ai_r03_default_h1_m2048_i02,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,3,ai_r03_default_h1_m4096_i01,28.1,36.71666666666667,42.30609756097561,
+AI Prompt-Iterative,4,ai_r04_secmin_h1_m4096_i02,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,4,ai_r04_default_h1_m4096_i04,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,4,ai_r04_default_h1_m8192_i01,30.1,39.05,50.3060975609756,
+AI Prompt-Iterative,4,ai_r04_default_h1_m2048_i03,30.1,39.05,50.3060975609756,

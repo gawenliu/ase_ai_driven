@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Secrets
+config.ini
+*.pem
+*.key
+
+# Runtime outputs and large artifacts
+outputs*/
+outputs_*/
+raw_repo/
+generated_code/
+*.log
+*.lock
+
+# LaTeX build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
